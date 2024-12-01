@@ -42,7 +42,7 @@
 | )   ( || )   ( || (____/\| )   ( || (____/\| )   ( || (___) || ) \ \__
 |/     \||/     \|(_______/|/     \|(_______/|/     \|(_______)|/   \__/
 
-Author: Kura1yume
+Author: Kuroshiro
 WARNING: This script is designed solely for educational purposes and must be tested only in a controlled, isolated virtual lab environment. It is highly illegal to deploy or use this script on any system without explicit permission from the system owner. Attempting to run or distribute this script on any unauthorized system can result in serious legal consequences, including criminal prosecution and potential jail time. Always ensure you have explicit permission before running any code that impacts system functionality.
 -----------------------------------------------
 """
