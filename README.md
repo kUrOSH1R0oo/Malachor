@@ -40,6 +40,6 @@ Using this script in unauthorized environments is illegal. It is strictly intend
 This project is licensed under the MIT License.
 
 # Author
-Kura1yume (A1SBERG)
+Kuroshiro (A1SBERG)
 
 
